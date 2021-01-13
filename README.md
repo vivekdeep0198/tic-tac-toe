@@ -5,17 +5,17 @@ It follow the same rules as tic-tac-toe the game
 
 # The way this game works 
 
-	|      |
-	|      |
-	|      |
+	     |      |
+	     |      |
+	     |      |
   ---------------------<br/>
-	|      |
-	|      |
-	|      |
+	     |      |
+	     |      |
+	     |      |
   ---------------------<br/>
-	|      |
-	|      |
-	|      |
+	     |      |
+	     |      |
+	     |      |
 
 # Requirements
 
